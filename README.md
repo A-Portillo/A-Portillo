@@ -1,6 +1,6 @@
 Math PhD student interested in data science, particularly in health-related fields.
 
-#Education
+# Education
 
 -PhD in Mathematics, University of Wroclaw 2020-2024
 
@@ -8,7 +8,7 @@ Math PhD student interested in data science, particularly in health-related fiel
 
 -Bachelor in Mathematics, Universidad autonoma de Madrid 2015-2019
 
-#Programming Languages
+# Programming Languages
 
 -R
 

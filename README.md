@@ -1,4 +1,4 @@
-Math PhD student interested in data science, particularly in health-related fields.
+PhD in model theory interested in data science, particularly in health-related fields.
 
 # Education
 
